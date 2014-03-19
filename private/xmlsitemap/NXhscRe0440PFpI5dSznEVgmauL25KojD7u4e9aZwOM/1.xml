@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://bunj-kick7-4_0.localhost:8082/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/nous-connaitre</loc><lastmod>2014-01-07T14:19Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/velo</loc><lastmod>2014-01-27T22:09Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/medias</loc><lastmod>2014-03-14T14:06Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique</loc><lastmod>2013-11-22T14:38Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/%C3%A0-pieds</loc><lastmod>2014-01-27T22:09Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/luge-d%C3%A9t%C3%A9</loc><lastmod>2014-01-27T22:11Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/trampoline</loc><lastmod>2014-01-27T22:10Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/tandem-luge-hiver</loc><lastmod>2014-01-27T22:05Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/ski</loc><lastmod>2014-03-13T10:25Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/sites-bun-j-ride/saint-jean-de-sixt</loc><lastmod>2014-01-20T23:09Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/sites-bun-j-ride/tignes</loc><lastmod>2014-01-08T13:19Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/sites-bun-j-ride</loc><lastmod>2014-01-08T14:54Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/pratique</loc><lastmod>2013-12-19T14:10Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/tandem-pieds</loc><lastmod>2014-01-27T22:11Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/luge-double</loc><lastmod>2014-01-27T22:10Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/luge-hiver</loc><lastmod>2014-01-27T22:11Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/snowboard</loc><lastmod>2014-01-27T22:09Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/saut-elastique/combo-mystere</loc><lastmod>2014-01-09T10:54Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/about-us</loc><lastmod>2014-01-07T14:22Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/bike</loc><lastmod>2014-01-27T22:21Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/medias</loc><lastmod>2014-02-18T17:38Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/feet</loc><lastmod>2014-01-27T22:20Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/sled</loc><lastmod>2014-01-27T22:22Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/trampoline</loc><lastmod>2014-01-27T22:22Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/tandem-snow-sled</loc><lastmod>2014-01-27T22:19Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/ski</loc><lastmod>2014-01-27T22:18Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/venues/saint-jean-de-sixt</loc><lastmod>2014-01-08T12:48Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/venues/tignes</loc><lastmod>2014-01-08T13:19Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/infos</loc><lastmod>2013-11-18T21:32Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/tandem-feet</loc><lastmod>2014-01-27T22:22Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/tandem-sled</loc><lastmod>2014-01-27T22:16Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/snow-sled</loc><lastmod>2014-01-27T22:22Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/snowboard</loc><lastmod>2014-01-27T22:21Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://bunj-kick7-4_0.localhost:8082/en/bungee-jump/combo-mystere</loc><lastmod>2013-12-13T11:53Z</lastmod><changefreq>yearly</changefreq></url>
+</urlset>

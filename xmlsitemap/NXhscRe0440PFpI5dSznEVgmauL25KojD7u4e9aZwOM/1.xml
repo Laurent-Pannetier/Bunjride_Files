@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://bunj-kick7-3_0.localhost:8082/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique/velo</loc><lastmod>2013-11-03T11:25Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique</loc><lastmod>2013-10-30T22:05Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique/%C3%A0-pieds</loc><lastmod>2013-10-30T21:51Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique/luge-d%C3%A9t%C3%A9</loc><lastmod>2013-11-01T20:30Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique/trampoline</loc><lastmod>2013-10-30T22:11Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique/luge-tandem-hiver</loc><lastmod>2013-10-31T05:51Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/saut-elastique/combo-myst%C3%A8re</loc><lastmod>2013-10-31T06:19Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/en/bungee-jump/bike</loc><lastmod>2013-11-03T20:20Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/en/bungee-jump/feet</loc><lastmod>2013-11-03T20:21Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/en/bungee-jump/sled</loc><lastmod>2013-11-03T20:22Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/en/bungee-jump/trampoline</loc><lastmod>2013-11-03T20:23Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/en/bungee-jump/tandem-snow-sled</loc><lastmod>2013-11-03T20:24Z</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bunj-kick7-3_0.localhost:8082/en/bungee-jump/combo-mystere</loc><lastmod>2013-10-31T06:19Z</lastmod><changefreq>weekly</changefreq></url>
+</urlset>
